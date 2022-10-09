@@ -1,6 +1,10 @@
 # Unity-Perforce
 
-1- Utilizar la herramienta HellixCore  con el repositorio creado para el proyecto de la tarea 1
+Tanto para añadir el proyecto de la tarea 1 como para el proyecto de Unity 3D básico, he creado un nuevo workspace enlazando la ruta de una carpeta guardada en local al depot llamado "FDV2223".
+
+![img](./img/workspace.png)
+
+Resultado:
 
 ![img](./img/tarea1.png)
 
